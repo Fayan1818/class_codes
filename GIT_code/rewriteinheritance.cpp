@@ -5,7 +5,7 @@ class parent
 {
     int a;
     public:
-    parent()
+    parent()  // this is constructor
     {
         a=20;
         cout<<a<<endl;
