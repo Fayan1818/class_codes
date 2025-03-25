@@ -1,3 +1,5 @@
+//functiion overriding inheritance
+
 #include<iostream>
 using namespace std;
 
