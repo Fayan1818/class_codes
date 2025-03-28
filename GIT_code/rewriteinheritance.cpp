@@ -19,7 +19,7 @@ class child:public parent            // inheritade  the parent class with class 
    child()
    {
     b=10;
-    cout<<b<<endl;
+    cout<<b<<endl;  
    }
 
 };
