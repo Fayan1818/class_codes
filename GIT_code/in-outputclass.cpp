@@ -10,7 +10,7 @@ public:
     void getdata()
     {
         cout << endl
-             << "Enter the length and breadth of the rectangle : " << endl;
+          << "Enter the length and breadth of the rectangle : " << endl;
         cin >> len >> br;
     }
 
