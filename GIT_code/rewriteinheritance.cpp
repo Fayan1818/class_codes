@@ -12,7 +12,7 @@ class parent
     }
 };
 
-class child:public parent            // inheritade  the parent class with class of child   
+class child:public parent            //  inheritade  the parent class with class of child   
 {
    int b;
    public:
